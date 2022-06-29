@@ -1,0 +1,47 @@
+{
+    "temas": [
+        {
+            "tema": "Atendimento Judiciário – SAJ",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Audiências e Sessões",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Custas Judiciais",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Juízes Leigos e Conciliadores",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Peticionamentos",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Recursos Humanos",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        },
+        {
+            "tema": "Sistemas Judiciais",
+            "endPoint": "orientacoesGerais",
+            "componenteRenderizacao":"MsgRetornoOrientacao",
+            "mensagemBoasVindas": "Em que posso te ajudar?"
+        }
+
+    ]
+}
